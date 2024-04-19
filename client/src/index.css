@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.w-72\.5 {
+    width: 18.125rem;
+}

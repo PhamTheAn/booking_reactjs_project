@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "root",
+      "password": "",
+      "database": "reactjs_project",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
+  
